@@ -8,7 +8,7 @@ It is available for 2 personas.
 
 Test&TrainEngineers  persona Flow –
 Let’s user upload a conference room snap
-Confirms the pic uploaded
+Confirms the pic uploaded  
 Gives back the result
 After each prediction for this persona the algo will ask –
 Was it right ?
