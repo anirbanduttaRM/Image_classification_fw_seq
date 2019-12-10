@@ -6,7 +6,7 @@ It is available for 2 personas.
 •	Test&TrainEngineers – They can get the prediction and tell the machine if its prediction was right, for it to learn.
 •	MobileFieldTechnicians – They will only get the prediction.
 
-Test&TrainEngineers  persona Flow –
+Test&TrainEngineers  persona Flow –  
 Let’s user upload a conference room snap
 Confirms the pic uploaded  
 Gives back the result
